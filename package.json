@@ -1,0 +1,22 @@
+{
+  "name": "my-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape add.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4v15/integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4v15/integration/issues"
+  },
+  "homepage": "https://github.com/m4v15/integration#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
